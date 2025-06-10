@@ -91,8 +91,8 @@ AssertJ предлагает больше возможностей для про
 
 1. Клонируйте репозиторий:
    ```bash
-   git https://github.com/Andrej-Gorlov/lessons22.git
    cd your-repo-directory
+   git clone https://github.com/Andrej-Gorlov/lessons14.git
 2. Соберите проект:
    ```bash
    mvn clean install
